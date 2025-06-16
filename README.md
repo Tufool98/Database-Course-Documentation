@@ -13,7 +13,7 @@ This repository contains research and reporting on key database concepts as part
 
 ## Files
 - Database_Report.docx
-- 
+  
 
 ## Prepared by
 Tufool Alnajashi - AI Operations
